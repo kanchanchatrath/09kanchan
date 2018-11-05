@@ -10,3 +10,17 @@ Version: 0.1.0
 p{
     color: pink;
 }
+h2.widget-title
+{
+    color:  blue;
+}
+.content-area{
+    background-color: lightcoral;
+    height: 50px;
+}
+h3.entry-title{
+    color:greenyellow;
+    font-weight: bold;
+    font-family: cursive;
+
+}
